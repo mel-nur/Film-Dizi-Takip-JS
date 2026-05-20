@@ -55,12 +55,12 @@ index.html dosyasını web tarayıcınızda açın veya lokal server çalıştı
 ## 📚 Proje Yapısı
 
 FilmDiziTakip/
-├── index.html        # Arama sayfası
-├── liste.html        # Listelerim sayfası
-├── app.js           # Arama fonksiyonları
-├── liste.js         # Liste yönetimi
-├── style.css        # Stil dosyası
-└── README.md        # Dokümantasyon
+* ├── index.html        # Arama sayfası
+* ├── liste.html        # Listelerim sayfası
+* ├── app.js           # Arama fonksiyonları
+* ├── liste.js         # Liste yönetimi
+* ├── style.css        # Stil dosyası
+* └── README.md        # Dokümantasyon
 
 ## 📖 Kullanım
 
