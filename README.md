@@ -32,7 +32,7 @@ Sevdiğiniz filmleri ve dizileri keşfetmek, izlediklerinizi takip etmek ve izle
 
 Uygulamayı görmek için aşağıdaki videoyu izleyin:
 
-[![FilmTakip Demo](https://img.youtube.com/vi/VIDEO_ID_BURADA/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_BURADA)
+[Film Takip](https://github.com/user-attachments/assets/24c96875-020a-4964-9c8b-3aed75ab4a25)
 
 ## ⚙️ Kurulum ve Konfigürasyon
 
