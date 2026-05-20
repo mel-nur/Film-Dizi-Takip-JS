@@ -3,7 +3,6 @@ const sekmeBtnlar = document.querySelectorAll(".filtre-btn");
 
 let aktifListe = "izlenenler";
 
-// --- SEKME BUTONLARI ---
 sekmeBtnlar.forEach(btn => {
   btn.addEventListener("click", () => {
     sekmeBtnlar.forEach(b => b.classList.remove("aktif-filtre"));
